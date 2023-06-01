@@ -3,6 +3,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
 #no data
 *.csv
 *.gz
