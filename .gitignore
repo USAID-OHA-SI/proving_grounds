@@ -3,6 +3,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.httr-oauth
+
 #no data
 *.csv
 *.gz
