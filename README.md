@@ -1,5 +1,7 @@
 # proving_grounds
-place to test git commands - used in the development of the analysts guide
+place to test git commands - used in the development of the analysts guide.
+
+Showing how a dev branch will have a different readme.
 
 ---
 
